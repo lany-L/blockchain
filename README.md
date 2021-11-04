@@ -52,6 +52,9 @@
     补充子弹: 0xdd5694368f56229a830007cefa9c65740adb5fa1
     调用depost
     
+    加载NFT在游戏里面属性加成
+    合约 ： 0x6367da5a219cd0475f392eb7fdbb0e419dfcba00
+    
     
     
 
