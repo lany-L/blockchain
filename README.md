@@ -34,4 +34,25 @@
  - NFT-MARKET
 
     https://bscscan.com/address/0x30a5190d1a212a42383970a1faa207000555e6f7#code
+    
+   
+   
+## FMC 鲨鱼GameFi项目
+
+ - website
+
+   https://bsc.fishingmaster.io/
+
+ - Introduction
+
+    传统游戏+web3完美结合，还有NFT市场
+    
+ - Contract
+    
+    补充子弹: 0xdd5694368f56229a830007cefa9c65740adb5fa1
+    调用depost
+    
+    
+    
+
 
