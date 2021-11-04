@@ -47,7 +47,7 @@
 
     传统游戏+web3完美结合，还有NFT市场
     
- - Contract
+ - Contracts
     
     补充子弹: 0xdd5694368f56229a830007cefa9c65740adb5fa1
     调用depost
