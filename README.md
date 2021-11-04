@@ -58,6 +58,9 @@
     NFT市场
     合约 ： 0x77E504698169ABA3353cB21E37924759d66690Da
     
+    加载NFT大炮装备
+    合约 ：CannonStorage - 0x030df6590839cb357a352135cd5b0660f3b68edc
+    
     
     
 
