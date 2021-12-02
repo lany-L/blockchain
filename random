@@ -1,0 +1,11 @@
+// SPDX-License-Identifier: GPL-3.0 
+
+pragma solidity 0.4.17;
+
+contract BallotTest {
+
+    function random() public view  returns  (uint) {
+        uint randomHash = uint(keccak256(block.difficulty, block.timestamp));
+        return randomHash % 2;
+    }
+}
