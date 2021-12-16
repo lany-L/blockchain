@@ -1,0 +1,3 @@
+利用web3j工具，转换成java操作类
+
+web3j solidity generate -b contract.bin -a contract.abi -o ./  -p com.test
