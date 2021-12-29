@@ -61,6 +61,21 @@
     加载NFT大炮装备
     合约 ：CannonStorage - 0x030df6590839cb357a352135cd5b0660f3b68edc
     
+
+## CRITTERZ项目
+ - website
+
+   https://www.critterz.xyz/
+ 
+  - Introduction
+    Mint 只需要gas，数量限定，staking
+    
+  - Contracts
+  
+    https://etherscan.io/address/0x137d8eb2d3d8065aaa367b7bd4454349414def3e#code
+   
+
+    
     
     
 
