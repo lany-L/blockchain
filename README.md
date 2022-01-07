@@ -75,6 +75,14 @@
     https://etherscan.io/address/0x137d8eb2d3d8065aaa367b7bd4454349414def3e#code
    
 
+## FoxDao项目
+    - website
+    
+    https://foxdao.fi/
+   
+   - Contracts
+     
+     0x52BA5b77a8Cde2Bb28135F88EBb4a6330F12ac80
     
     
     
