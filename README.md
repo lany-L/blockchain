@@ -65,7 +65,7 @@
 ## CRITTERZ项目
   - website
 
-   https://www.critterz.xyz/
+      https://www.critterz.xyz/
  
   - Introduction
     Mint 只需要gas，数量限定，staking
@@ -78,7 +78,7 @@
 ## FoxDao项目
   - website
 
-   https://foxdao.fi/
+      https://foxdao.fi/
     
    
    - Contracts
