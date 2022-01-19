@@ -84,6 +84,12 @@
    - Contracts
      
      0x52BA5b77a8Cde2Bb28135F88EBb4a6330F12ac80
+     
+## 易水寒冷兔NFT项目
+
+  - Contracts
+
+    https://etherscan.io/address/0x534d37c630b7e4d2a6c1e064f3a2632739e9ee04#code
     
     
     
