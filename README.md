@@ -1,5 +1,9 @@
 # Token-Introduction
 
+## 查询稀有度
+
+  https://app.traitsniper.com/xmfers?
+
 ## Loot Token
 
 - ERC721-token
