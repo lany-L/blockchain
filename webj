@@ -1,3 +1,20 @@
 利用web3j工具，转换成java操作类
 
 web3j solidity generate -b contract.bin -a contract.abi -o ./  -p com.test
+
+php如何解析event中log,Topics的地址？
+
+示例代码：
+$c = new Ethabi([
+            'address' => new Address,
+            'bool' => new Boolean,
+            'bytes' => new Bytes,
+            'dynamicBytes' => new DynamicBytes,
+            'int' => new Integer,
+            'string' => new Str,
+            'uint' => new Uinteger
+        ]);
+        
+$topics = $item['topics'];
+$result = $c->decodeParameter('address', $topics[1]);//address/uint256
+//echo 0x0000000000000000000000001bb2c7da7945f33bf62de5ae7253984d4d88a5e => 0x1bb2c7da7945f33bf62de5ae7253984d4d88a5e
