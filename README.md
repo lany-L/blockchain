@@ -4,6 +4,20 @@
 
   https://app.traitsniper.com/xmfers?
 
+
+
+
+ ## BLUR NFT平台 合约数据
+   - 空投
+     使用了默克尔树录入白名单
+     https://etherscan.io/address/0xf2d15c0a89428c9251d71a0e29b39ff1e86bce25#code
+     
+   - 多签 GnosisSafeProxy
+      https://etherscan.io/address/0xf2d15c0a89428c9251d71a0e29b39ff1e86bce25
+
+
+
+
 ## Loot Token
 
 - ERC721-token
@@ -25,13 +39,7 @@
   
 
  
- ## BLUR NFT平台 合约数据
-   - 空投
-     使用了默克尔树录入白名单
-     https://etherscan.io/address/0xf2d15c0a89428c9251d71a0e29b39ff1e86bce25#code
-     
-   - 多签 GnosisSafeProxy
-      https://etherscan.io/address/0xf2d15c0a89428c9251d71a0e29b39ff1e86bce25
+
  
   
   
