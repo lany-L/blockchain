@@ -1,5 +1,14 @@
 # Token-Introduction
 
+## Floki Stake pending Token 子币
+
+    https://bscscan.com/address/0xb8d2471e35ee033db509e0456c8efc4135f4ee43#code
+
+
+
+
+
+
 ## 查询稀有度
 
   https://app.traitsniper.com/xmfers?
@@ -119,7 +128,9 @@
   - Contracts
 
     https://etherscan.io/address/0xbf66f2d9630a033022602c3279b04b4a37399927#code
-    
+
+
+
     
     
 
