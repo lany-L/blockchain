@@ -1,5 +1,10 @@
 # Token-Introduction
 
+
+##天方NFT
+    chain Link 抽奖方式，公平链上随机数合约
+    https://etherscan.io/address/0x7b222a2afc1d1e453199a4e0c8256a631a3b2358#code
+
 ## Floki Stake pending Token 子币
 
     https://bscscan.com/address/0xb8d2471e35ee033db509e0456c8efc4135f4ee43#code
