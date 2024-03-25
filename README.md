@@ -1,5 +1,7 @@
 # Token-Introduction
 
+## Bake 新币发售 BigPump paused继承暂停/开始功能
+    https://bscscan.com/address/0x22b4fA9a13A0D303Ad258Ee6D62A6ac60364B0C9#code
 
 ## 天方NFT
     chain Link 抽奖方式，公平链上随机数合约
